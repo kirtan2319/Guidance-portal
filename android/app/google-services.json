@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "73300636207",
+    "project_id": "devnewapp-b5982",
+    "storage_bucket": "devnewapp-b5982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73300636207:android:1217964fb4337706178cda",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73300636207-ivpo2phmt5up5odsl4859c1crt23vf36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb2ZF2N5dIVHAqcwxnspA9cJs1IlY8Dms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73300636207-ivpo2phmt5up5odsl4859c1crt23vf36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73300636207-qsel55655ea37n72rgrk25gv3mtfmnep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iitGuidancePortal"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73300636207:android:5f3283b916b7b1f8178cda",
+        "android_client_info": {
+          "package_name": "com.example.iit_guidance_portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73300636207-ivpo2phmt5up5odsl4859c1crt23vf36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb2ZF2N5dIVHAqcwxnspA9cJs1IlY8Dms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73300636207-ivpo2phmt5up5odsl4859c1crt23vf36.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "73300636207-qsel55655ea37n72rgrk25gv3mtfmnep.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.iitGuidancePortal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
